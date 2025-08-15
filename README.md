@@ -1,12 +1,29 @@
-# Personal Portfolio – HTML Version
+🌐 Personal Portfolio
 
-This is the basic HTML version of my personal portfolio page, created as part of my full stack web development learning journey. It includes essential sections like About Me, Projects, and Contact, and is designed to evolve into a fully functional, styled portfolio using CSS, JavaScript, and backend technologies.
+A responsive personal portfolio website built to showcase my skills, projects, and experience. Designed for a clean, modern look and easy navigation.
 
-## 🔍 Overview
-- Built using pure HTML (no CSS yet)
-- Simple and clean structure for easy expansion
-- Includes project links and contact info
+🚀 Live Demo
 
-## 📁 Sections Included
-- **Header** – Name and title
-- **About Me** – A short intro and
+Visit Portfolio
+
+📌 Features
+
+Responsive Design – Works on desktop, tablet, and mobile
+
+About Section – Overview of who I am and what I do
+
+Skills Showcase – Highlighting my technical expertise
+
+Projects Section – Display of selected works with links
+
+Contact Form – Easy way to get in touch
+
+Smooth Animations – Subtle, modern effects for better UX
+
+🛠️ Tech Stack
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
